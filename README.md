@@ -3,3 +3,9 @@
 
 
 ## How To Use?
+```sh
+#!/system/bin/sh
+
+# Package Name of the Game or App
+PACKAGE_NAME="com.kurogame.wutheringwaves.global"
+```
