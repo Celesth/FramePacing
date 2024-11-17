@@ -4,8 +4,6 @@
 
 ## How To Use?
 ```sh
-#!/system/bin/sh
-
-# Package Name of the Game or App
 PACKAGE_NAME="com.kurogame.wutheringwaves.global"
 ```
+You Would Only Need To Edit The PACKAGE_NAME = "Your.package.name"
