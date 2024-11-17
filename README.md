@@ -1,5 +1,5 @@
 # FramePacing (In Development)
-> A Shell Script To Improve Android Gaming Performance. Using Game Interventions/Game API
+> A Shell Script Used To Improve Android Gaming Performance. Using Game Interventions/Game API
 
 
 ## How To Use?
