@@ -7,9 +7,6 @@
 PACKAGE_NAME="com.package.name"
 ```
 # Pre-Execution Checklist
-
-## Important Step:
-
 Before executing the script, **ensure you specify the package name** of the game you want to optimize.  
 
 This is a requirement as for the script to take affect on the application.
