@@ -18,5 +18,12 @@ Make Sure To Have These Apps Installed.
 
 • [AShellYou](https://github.com/DP-Hridayan/aShellYou)
 
-**Why Should I Download Them?** 
-You Need Them, In Order To Execute My Script, If Your A Developer And Know How To Execute It In A Different Way, Contact Me On Discord: *korieuko*
+## **Download To Execute** 
+
+In Order To Execute My Script. **You Would Need One Of These Apps.**
+
+If Your A Developer And Know How To Execute It In A Different Way.
+
+
+**Contact Me On Discord: *korieuko*.**
+As I Will Add It Here.
