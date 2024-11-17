@@ -6,4 +6,10 @@
 ```sh
 PACKAGE_NAME="com.package.name"
 ```
-•  **Thinking Protocol**: Before Executing The Script, Make Sure To Put The Package Name Of The Game, You Want To Optimize
+# Pre-Execution Checklist
+
+## Important Step:
+
+Before executing the script, **ensure you specify the package name** of the game you want to optimize.  
+
+This is a requirement as for the script to take affect on the application.
