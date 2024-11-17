@@ -4,6 +4,6 @@
 
 ## How To Use?
 ```sh
-PACKAGE_NAME="com.kurogame.wutheringwaves.global"
+PACKAGE_NAME="com.package.name"
 ```
-You Would Only Need To Edit The PACKAGE_NAME = "Your.package.name"
+•  **Thinking Protocol**: Before Executing The Script, Make Sure To Put The Package Name Of The Game, You Want To Optimize
