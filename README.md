@@ -1,12 +1,15 @@
 # FramePacing (In Development)
 > A Shell Script Used To Improve Android Gaming Performance. Using Game Interventions/Game API
 
+# Before Continuing!
+**Make Sure You Have A12+ (Android 12+)
+For The Script To Take Effect.**
 
 ## How To Use?
 ```sh
 PACKAGE_NAME="com.package.name"
 ```
-# Pre-Execution Checklist
+# Pre-Execution Requirement
 Before executing the script, **ensure you specify the package name** of the game you want to optimize.  
 
 This is a requirement as for the script to take affect on the application.
