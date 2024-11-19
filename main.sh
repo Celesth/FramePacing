@@ -18,7 +18,7 @@ device_config put game_overlay $PACKAGE_NAME enable_frame_pacing $ENABLE_FRAME_P
 fps="$(dumpsys display | grep -o -E 'fps=[0-9]+(\.[0-9]+)?' | cut -d'=' -f2 | sort -u | awk '{print $1 - 10}' | bc)"
 
  echo " ■ Performance mode has been set for:
-     [ $gamepackage ]
+     [ $PACKAGE_NAME ]
  ■ Supported Display Refresh Rate: 
      [ $(dumpsys display | grep -o -E 'fps=[0-9]+(\.[0-9]+)?' | cut -d'=' -f2 | sort -u | head -n1) Hz ]
  ■ FPS throttling enabled
