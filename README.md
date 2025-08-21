@@ -1,4 +1,4 @@
-# FramePacing (In Development)
+# FramePacing (Discontinued)
 > A Shell Script Used To Improve Android Gaming Performance. Using Game Interventions/Game API
 
 # Before Continuing!
